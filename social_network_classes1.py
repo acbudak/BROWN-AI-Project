@@ -31,7 +31,7 @@ class Person:
         #1.find the friends's object
         #2.add message to friend's message list
         #friends_object.messages.append(messages)
-        pass
+        
 
     
         
