@@ -26,8 +26,11 @@ class Person:
        
         #implement adding friend. Hint add to self.friendlist
         
-    def send_message(self):
+    def send_message(self,message,name_of_friend,social_network):
         #implement sending message to friend here
+        #1.find the friends's object
+        #2.add message to friend's message list
+        #friends_object.messages.append(messages)
         pass
 
     

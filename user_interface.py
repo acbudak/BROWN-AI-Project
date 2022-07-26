@@ -79,7 +79,7 @@ while True:
                 if y.friends == uptated_friends :
                     friends = y
         elif response2 == "5":
-                print("Goodbye")
+                print("Goodbyee")
                 mainMenu()
                         
 
